@@ -1,0 +1,6 @@
+text-unidecode
+bertopic
+emoji
+umap-learn 
+hdbscan 
+sentence_transformers
